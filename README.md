@@ -4,7 +4,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS] (https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 ![Sin título-1](https://user-images.githubusercontent.com/127243541/224896790-997e01d8-2de2-49af-be57-cf2201c30c2d.png)
 
